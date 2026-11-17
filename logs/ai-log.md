@@ -15,3 +15,9 @@ Append load-bearing AI use and its human verification. Preserve prior entries an
 - Task and output used:
 - What a human verified:
 - Verifier:
+
+## 2026-11-17 - Pre-registration draft
+
+- Task: Codex drafted the Strategy Graveyard research question, proposed sample dates, inference, benchmark, costs, classification thresholds and pilot stopping rule, and added a pull request checklist.
+- Human verification: Pending. Review the proposed methods and complete the 20-strategy registry before approval.
+- Experiments: None run.
